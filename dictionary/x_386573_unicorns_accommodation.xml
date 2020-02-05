@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Accommodation" max_length="40" name="x_386573_unicorns_accommodation" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="250" sequence="0" value="250"/>
+                <element inactive_on_update="false" label="500" sequence="1" value="500"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" mandatory="true" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Hostel" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Klu Boys Hostel" sequence="0" value="klu boys hostel"/>
+                <element inactive_on_update="false" label="Kanchana Ganga Hostel" sequence="1" value="kanchana ganga hostel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Bed Number" max_length="40" name="u_choice_4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="bed-1" sequence="0" value="bed-1"/>
+                <element inactive_on_update="false" label="bed-2" sequence="1" value="bed-2"/>
+                <element inactive_on_update="false" label="bed-3" sequence="2" value="bed-3"/>
+                <element inactive_on_update="false" label="bed-4" sequence="3" value="bed-4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Room No" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="G-101" sequence="0" value="g-101"/>
+                <element inactive_on_update="false" label="G-102" sequence="1" value="g-102"/>
+                <element inactive_on_update="false" label="G-103" sequence="2" value="g-103"/>
+                <element inactive_on_update="false" label="G-104" sequence="3" value="g-104"/>
+                <element inactive_on_update="false" label="G-105" sequence="4" value="g-105"/>
+                <element inactive_on_update="false" label="G-106" sequence="5" value="g-106"/>
+                <element inactive_on_update="false" label="G-107" sequence="6" value="g-107"/>
+                <element inactive_on_update="false" label="G-108" sequence="7" value="g-108"/>
+                <element inactive_on_update="false" label="G-109" sequence="8" value="g-109"/>
+                <element inactive_on_update="false" label="G-110" sequence="9" value="g-110"/>
+                <element inactive_on_update="false" label="B-101" sequence="10" value="b-101"/>
+                <element inactive_on_update="false" label="B-102" sequence="11" value="b-102"/>
+                <element inactive_on_update="false" label="B-103" sequence="12" value="b-103"/>
+                <element inactive_on_update="false" label="B-104" sequence="13" value="b-104"/>
+                <element inactive_on_update="false" label="B-105" sequence="14" value="b-105"/>
+                <element inactive_on_update="false" label="B-106" sequence="15" value="b-106"/>
+                <element inactive_on_update="false" label="B-107" sequence="16" value="b-107"/>
+                <element inactive_on_update="false" label="B-108" sequence="17" value="b-108"/>
+                <element inactive_on_update="false" label="B-109" sequence="18" value="b-109"/>
+                <element inactive_on_update="false" label="B-110" sequence="19" value="b-110"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="No.of days" mandatory="true" max_length="40" name="u_choice_7" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element label="Payment" max_length="40" name="u_integer_6" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

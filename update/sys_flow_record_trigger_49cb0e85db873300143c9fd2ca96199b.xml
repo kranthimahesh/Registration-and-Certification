@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_386573_unicorns_klu_registration">^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>true</on_update>
+        <run_when_setting>both</run_when_setting>
+        <run_when_user_list/>
+        <run_when_user_setting>any</run_when_user_setting>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:40:15</sys_created_on>
+        <sys_id>49cb0e85db873300143c9fd2ca96199b</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_49cb0e85db873300143c9fd2ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-10 17:22:43</sys_updated_on>
+        <table>x_386573_unicorns_klu_registration</table>
+    </sys_flow_record_trigger>
+</record_update>

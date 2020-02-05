@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="PAYMENT" section_id="7979e505db833300143c9fd2ca961941" sys_domain="global" table="x_386573_unicorns_registration" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_15</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_id>1e792905db833300143c9fd2ca961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="PAYMENT" display_value="PAYMENT" name="x_386573_unicorns_registration" sys_domain="global" view="Default view">7979e505db833300143c9fd2ca961941</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>PAYMENT</caption>
+            <header>false</header>
+            <name>x_386573_unicorns_registration</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7979e505db833300143c9fd2ca961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PAYMENT</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+            <sys_update_name>sys_ui_section_7979e505db833300143c9fd2ca961941</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

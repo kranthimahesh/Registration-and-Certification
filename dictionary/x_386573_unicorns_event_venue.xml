@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Event Venue" max_length="40" name="x_386573_unicorns_event_venue" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Event Venue" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Indoor Stadium" sequence="0" value="indoor stadium"/>
+                <element inactive_on_update="false" label="C101 &amp; C102" sequence="1" value="c101 &amp; c102"/>
+                <element inactive_on_update="false" label="E101 TO E110" sequence="2" value="e101 to e110"/>
+                <element inactive_on_update="false" label="C225" sequence="3" value="c225"/>
+                <element inactive_on_update="false" label="C325" sequence="4" value="c325"/>
+                <element inactive_on_update="false" label="C425" sequence="5" value="c425"/>
+                <element inactive_on_update="false" label="C525" sequence="6" value="c525"/>
+                <element inactive_on_update="false" label="C625" sequence="7" value="c625"/>
+                <element inactive_on_update="false" label="R101" sequence="8" value="r101"/>
+                <element inactive_on_update="false" label="R102" sequence="9" value="r102"/>
+                <element inactive_on_update="false" label="R103" sequence="10" value="r103"/>
+                <element inactive_on_update="false" label="R104" sequence="11" value="r104"/>
+                <element inactive_on_update="false" label="R105" sequence="12" value="r105"/>
+                <element inactive_on_update="false" label="R201" sequence="13" value="r201"/>
+                <element inactive_on_update="false" label="R202" sequence="14" value="r202"/>
+                <element inactive_on_update="false" label="C408" sequence="15" value="c408"/>
+                <element inactive_on_update="false" label="C409" sequence="16" value="c409"/>
+                <element inactive_on_update="false" label="C410" sequence="17" value="c410"/>
+                <element inactive_on_update="false" label="C411" sequence="18" value="c411"/>
+                <element inactive_on_update="false" label="C308" sequence="19" value="c308"/>
+                <element inactive_on_update="false" label="C309" sequence="20" value="c309"/>
+                <element inactive_on_update="false" label="C121" sequence="21" value="c121"/>
+                <element inactive_on_update="false" label="C221" sequence="22" value="c221"/>
+                <element inactive_on_update="false" label="C421" sequence="23" value="c421"/>
+                <element inactive_on_update="false" label="C422" sequence="24" value="c422"/>
+                <element inactive_on_update="false" label="C423" sequence="25" value="c423"/>
+                <element inactive_on_update="false" label="C321" sequence="26" value="c321"/>
+                <element inactive_on_update="false" label="C322" sequence="27" value="c322"/>
+                <element inactive_on_update="false" label="Play Ground" sequence="28" value="play ground"/>
+                <element inactive_on_update="false" label="OAT" sequence="29" value="oat"/>
+                <element inactive_on_update="false" label="C208" sequence="30" value="c208"/>
+                <element inactive_on_update="false" label="C101" sequence="31" value="c101"/>
+                <element inactive_on_update="false" label="C504" sequence="32" value="c504"/>
+                <element inactive_on_update="false" label="C405" sequence="33" value="c405"/>
+                <element inactive_on_update="false" label="R303" sequence="34" value="r303"/>
+                <element inactive_on_update="false" label="R304" sequence="35" value="r304"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Event Name" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Project Expo" sequence="0" value="project expo"/>
+                <element inactive_on_update="false" label="Paper and Poster Presentation" sequence="1" value="paper and poster presentation"/>
+                <element inactive_on_update="false" label="Literary Events Workshop" sequence="2" value="literary events workshop"/>
+                <element inactive_on_update="false" label="IOT Workshop" sequence="3" value="iot workshop"/>
+                <element inactive_on_update="false" label="Entrepreneurship Workshop" sequence="4" value="entrepreneurship workshop"/>
+                <element inactive_on_update="false" label="Digital Marketing Workshop" sequence="5" value="digital marketing workshop"/>
+                <element inactive_on_update="false" label="AI Workshop" sequence="6" value="ai workshop"/>
+                <element inactive_on_update="false" label="Social Media Analysis Workshop" sequence="7" value="social media analysis workshop"/>
+                <element inactive_on_update="false" label="Industry 4.0 Tech Workshop" sequence="8" value="industry 4.0 tech workshop"/>
+                <element inactive_on_update="false" label="Augmented Reality Tech Workshop" sequence="9" value="augmented reality tech workshop"/>
+                <element inactive_on_update="false" label="Blockchain Tech Worksop" sequence="10" value="blockchain tech worksop"/>
+                <element inactive_on_update="false" label="Sixth Sense Robotics Tech Workshop" sequence="11" value="sixth sense robotics tech workshop"/>
+                <element inactive_on_update="false" label="Foundation Analysis Tech Workshop" sequence="12" value="foundation analysis tech workshop"/>
+                <element inactive_on_update="false" label="Automatic Electronics Tech Workshop" sequence="13" value="automatic electronics tech workshop"/>
+                <element inactive_on_update="false" label="Amazon Webservices Tech Workshop" sequence="14" value="amazon webservices tech workshop"/>
+                <element inactive_on_update="false" label="Pubg Gaming" sequence="15" value="pubg gaming"/>
+                <element inactive_on_update="false" label="Blur Gaming" sequence="16" value="blur gaming"/>
+                <element inactive_on_update="false" label="Jenga Gaming" sequence="17" value="jenga gaming"/>
+                <element inactive_on_update="false" label="Hot Wheels Gaming" sequence="18" value="hot wheels gaming"/>
+                <element inactive_on_update="false" label="Steady Hands Gaming" sequence="19" value="steady hands gaming"/>
+                <element inactive_on_update="false" label="Angry Birds Gaming" sequence="20" value="angry birds gaming"/>
+                <element inactive_on_update="false" label="Blind Fold Special Event" sequence="21" value="blind fold special event"/>
+                <element inactive_on_update="false" label="Mock CID Special Event" sequence="22" value="mock cid special event"/>
+                <element inactive_on_update="false" label="Minute to Win It Special Event" sequence="23" value="minute to win it special event"/>
+                <element inactive_on_update="false" label="Mega Bubble Challenge Special Event" sequence="24" value="mega bubble challenge special event"/>
+                <element inactive_on_update="false" label="What's In the Box Special Event" sequence="25" value="what's in the box special event"/>
+                <element inactive_on_update="false" label="Twister Special Event" sequence="26" value="twister special event"/>
+                <element inactive_on_update="false" label="Treasure Hunt Special Event" sequence="27" value="treasure hunt special event"/>
+                <element inactive_on_update="false" label="Proshow" sequence="28" value="proshow"/>
+                <element inactive_on_update="false" label="Cultural Events" sequence="29" value="cultural events"/>
+            </choice>
+        </element>
+    </element>
+</database>

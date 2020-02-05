@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_9" table="x_386573_unicorns_registration" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a79e505db833300143c9fd2ca9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <value>none</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IOT</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d679e505db833300143c9fd2ca9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <value>iot</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Entrepreneurship</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9279e505db833300143c9fd2ca9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <value>entrepreneurship</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Digital Marketing</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e79e505db833300143c9fd2ca9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <value>digital marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Artificial Intelligence</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a79e505db833300143c9fd2ca9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <value>artificial intelligence</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_9</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Social Media&amp;Anlitics</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d279e505db833300143c9fd2ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+            <value>social media&amp;anlitics</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_9</element>
+            <name>x_386573_unicorns_registration</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:10:25</sys_created_on>
+            <sys_id>5f2fd865db0333009d56196c299619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_9</sys_name>
+            <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+            <sys_update_name>sys_choice_x_386573_unicorns_registration_u_choice_9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:10:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

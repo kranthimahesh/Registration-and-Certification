@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_choice_3</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Accommodation Hostel</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	var z=g_form.getValue('u_choice_3');
+	g_form.clearOptions('u_choice_5');
+	if(z=='klu boys hostel')
+		{
+			g_form.addOption('u_choice_5','b-101','B-101');
+			g_form.addOption('u_choice_5','b-102','B-102');
+			g_form.addOption('u_choice_5','b-103','B-103');
+			g_form.addOption('u_choice_5','b-104','B-104');
+			g_form.addOption('u_choice_5','b-105','B-105');
+			g_form.addOption('u_choice_5','b-106','B-106');
+			g_form.addOption('u_choice_5','b-107','B-107');
+			g_form.addOption('u_choice_5','b-108','B-108');
+			g_form.addOption('u_choice_5','b-109','B-109');
+			g_form.addOption('u_choice_5','b-110','B-110');
+		}
+	else if(z=='kanchana ganga hostel')
+		{
+			g_form.addOption('u_choice_5','g-101','G-101');
+			g_form.addOption('u_choice_5','g-102','G-102');
+			g_form.addOption('u_choice_5','g-103','G-103');
+			g_form.addOption('u_choice_5','g-104','G-104');
+			g_form.addOption('u_choice_5','g-105','G-105');
+			g_form.addOption('u_choice_5','g-106','G-106');
+			g_form.addOption('u_choice_5','g-107','G-107');
+			g_form.addOption('u_choice_5','g-108','G-108');
+			g_form.addOption('u_choice_5','g-109','G-109');
+			g_form.addOption('u_choice_5','g-110','G-110');
+		}
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 04:24:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da3b25c5db833300143c9fd2ca961998</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Accommodation Hostel</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+        <sys_update_name>sys_script_client_da3b25c5db833300143c9fd2ca961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-10 19:32:11</sys_updated_on>
+        <table>x_386573_unicorns_accommodation</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

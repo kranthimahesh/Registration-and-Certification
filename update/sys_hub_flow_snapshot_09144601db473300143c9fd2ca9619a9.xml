@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>certificate_flow</internal_name>
+        <label_cache>[{"name":"f443fb49-3ef0-424d-a1c5-f442f85ed8dc.email","label":"1.3.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"3b0d8051-bd8e-48d2-93dd-d5a2ddc78c1b.email","label":"1.2.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"{{static.1cca7941db073300143c9fd2ca961962}}","label":"Certificate Approval","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current","label":"Trigger➛Registration Record","reference":"x_386573_unicorns_registration","reference_display":"Registration","type":"reference","base_type":"reference"},{"name":"84d11a57-1370-43b6-9893-abd6116bae26.approval_state","label":"1.1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Created or Updated_1.current.u_boolean_1","label":"Trigger➛Registration Record➛ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE(MARK THE CHECK BOX)","reference":"","reference_display":"ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE(MARK THE CHECK BOX)","type":"boolean","base_type":"boolean","parent_table_name":"x_386573_unicorns_registration","column_name":"u_boolean_1"}]</label_cache>
+        <master>true</master>
+        <name>certificate_flow</name>
+        <outputs/>
+        <parent_flow display_value="certificate_flow">60524a0ddb073300143c9fd2ca96194d</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:39</sys_created_on>
+        <sys_id>09144601db473300143c9fd2ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>certificate_flow</sys_name>
+        <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_09144601db473300143c9fd2ca9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:39</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=09144601db473300143c9fd2ca9619a9"/>
+    <sys_variable_value action="delete_multiple" query="document_key=09144601db473300143c9fd2ca9619a9"/>
+</record_update>

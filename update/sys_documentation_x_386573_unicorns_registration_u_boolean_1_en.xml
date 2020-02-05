@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_boolean_1" label="ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE AND CORRECT" language="en" table="x_386573_unicorns_registration">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_boolean_1</element>
+            <help/>
+            <hint>Click on check box below ,to confirm your details provided.</hint>
+            <label>ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE AND CORRECT</label>
+            <language>en</language>
+            <name>x_386573_unicorns_registration</name>
+            <plural>ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE AND CORRECTs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 05:55:51</sys_created_on>
+            <sys_id>dc1f5065db0333009d56196c29961973</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE AND CORRECT</sys_name>
+            <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+            <sys_update_name>sys_documentation_x_386573_unicorns_registration_u_boolean_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 09:20:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

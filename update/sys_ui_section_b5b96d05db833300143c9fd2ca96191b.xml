@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="NON TECH EVENTS" section_id="b5b96d05db833300143c9fd2ca96191b" sys_domain="global" table="x_386573_unicorns_klu_registration" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>7060e871db7333009d56196c2996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <text>Free</text>
+            <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>7460e871db7333009d56196c2996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <text>Free</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>7060e871db7333009d56196c2996192a</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>3860e871db7333009d56196c2996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NON TECH EVENTS" display_value="NON TECH EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b5b96d05db833300143c9fd2ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_11</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>bc60e871db7333009d56196c2996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NON TECH EVENTS" display_value="NON TECH EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b5b96d05db833300143c9fd2ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>3460e871db7333009d56196c2996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NON TECH EVENTS" display_value="NON TECH EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b5b96d05db833300143c9fd2ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>7460e871db7333009d56196c2996192a</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>b860e871db7333009d56196c2996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NON TECH EVENTS" display_value="NON TECH EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b5b96d05db833300143c9fd2ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_12</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 13:33:38</sys_created_on>
+            <sys_id>3060e871db7333009d56196c2996192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NON TECH EVENTS" display_value="NON TECH EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b5b96d05db833300143c9fd2ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 13:33:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>NON TECH EVENTS</caption>
+            <header>false</header>
+            <name>x_386573_unicorns_klu_registration</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5b96d05db833300143c9fd2ca96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NON TECH EVENTS</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+            <sys_update_name>sys_ui_section_b5b96d05db833300143c9fd2ca96191b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

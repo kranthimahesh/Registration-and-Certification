@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b9b96d05db833300143c9fd2ca961919" sys_domain="global" table="x_386573_unicorns_klu_registration" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9b9ed05db833300143c9fd2ca961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_386573_unicorns_klu_registration" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b9b96d05db833300143c9fd2ca961919</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">f1b96d05db833300143c9fd2ca961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5b9ed05db833300143c9fd2ca961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_386573_unicorns_klu_registration" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b9b96d05db833300143c9fd2ca961919</sys_ui_form>
+            <sys_ui_section caption="TECHNICAL EVENTS" display_value="TECHNICAL EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">f1b9ed05db833300143c9fd2ca961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39b96d05db833300143c9fd2ca96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_386573_unicorns_klu_registration" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b9b96d05db833300143c9fd2ca961919</sys_ui_form>
+            <sys_ui_section caption="NON TECH EVENTS" display_value="NON TECH EVENTS" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b5b96d05db833300143c9fd2ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71b9ed05db833300143c9fd2ca961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_386573_unicorns_klu_registration" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b9b96d05db833300143c9fd2ca961919</sys_ui_form>
+            <sys_ui_section caption="ENTERTAINMENT" display_value="ENTERTAINMENT" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">fdb9ed05db833300143c9fd2ca961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9b96d05db833300143c9fd2ca96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_386573_unicorns_klu_registration" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b9b96d05db833300143c9fd2ca961919</sys_ui_form>
+            <sys_ui_section caption="PAYMENT" display_value="PAYMENT" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">75b96d05db833300143c9fd2ca96191e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 07:36:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>059816c9dbc73300143c9fd2ca961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_386573_unicorns_klu_registration" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">b9b96d05db833300143c9fd2ca961919</sys_ui_form>
+            <sys_ui_section caption="Verification" display_value="Verification" name="x_386573_unicorns_klu_registration" sys_domain="global" view="Default view">059816c9dbc73300143c9fd2ca96193e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 07:36:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_386573_unicorns_klu_registration</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-02 04:11:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9b96d05db833300143c9fd2ca961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_386573_unicorns_klu_registration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b9b96d05db833300143c9fd2ca961919</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-02 04:11:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

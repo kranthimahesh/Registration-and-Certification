@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="certificate_flow">60524a0ddb073300143c9fd2ca96194d</flow>
+        <order>1.2.1</order>
+        <parent_ui_id>bb0bb2d8-8fe7-4490-a723-2d91d51295f9</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:31</sys_created_on>
+        <sys_id>0b04c201db473300143c9fd2ca9619fe</sys_id>
+        <sys_mod_count>92</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="unicorns" source="x_386573_unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unicorns">a8a4a90ddb033300143c9fd2ca961918</sys_scope>
+        <sys_update_name>sys_hub_action_instance_0b04c201db473300143c9fd2ca9619fe</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-24 07:19:05</sys_updated_on>
+        <ui_id>3b0d8051-bd8e-48d2-93dd-d5a2ddc78c1b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0b04c201db473300143c9fd2ca9619fe"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:31</sys_created_on>
+        <sys_id>07040601db473300143c9fd2ca961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:31</sys_updated_on>
+        <value>THANKS FOR BEING A PART OF SAMYAK</value>
+        <variable display_value="">b21241160b100300d97d8bf637673a4a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:39</sys_created_on>
+        <sys_id>34144601db473300143c9fd2ca96193b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:39:24</sys_updated_on>
+        <value/>
+        <variable display_value="">8e6281160b100300d97d8bf637673aee</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:31</sys_created_on>
+        <sys_id>43040601db473300143c9fd2ca961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:31</sys_updated_on>
+        <value>&lt;p&gt;&lt;a title="" href="https://drive.google.com/open?id&amp;#61;1tVFxL25kPKHX3Q5doF8jILOqeSgnNQF8" target="_blank" rel="noopener noreferrer nofollow"&gt;https://drive.google.com/open?id&amp;#61;1tVFxL25kPKHX3Q5doF8jILOqeSgnNQF8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CLICK THE ABOVE LINK TO GET YOUR E-CERTIFICATE.&lt;/p&gt;
+&lt;p&gt;THANK YOU.&lt;/p&gt;</value>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:39</sys_created_on>
+        <sys_id>70144601db473300143c9fd2ca96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:39</sys_updated_on>
+        <value>THANKS FOR BEING A PART OF SAMYAK</value>
+        <variable display_value="">0a62c1160b100300d97d8bf637673a05</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:31</sys_created_on>
+        <sys_id>8f040601db473300143c9fd2ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:31</sys_updated_on>
+        <value>160040377@kluniversity.in</value>
+        <variable display_value="">f61205d20b100300d97d8bf637673ac2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:39</sys_created_on>
+        <sys_id>bc144601db473300143c9fd2ca96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:39</sys_updated_on>
+        <value>&lt;p&gt;&lt;a title="" href="https://drive.google.com/open?id&amp;#61;1tVFxL25kPKHX3Q5doF8jILOqeSgnNQF8" target="_blank" rel="noopener noreferrer nofollow"&gt;https://drive.google.com/open?id&amp;#61;1tVFxL25kPKHX3Q5doF8jILOqeSgnNQF8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CLICK THE ABOVE LINK TO GET YOUR E-CERTIFICATE.&lt;/p&gt;
+&lt;p&gt;THANK YOU.&lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:31</sys_created_on>
+        <sys_id>c7040601db473300143c9fd2ca961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 06:06:31</sys_updated_on>
+        <value>160040081@kluniversity.in</value>
+        <variable display_value="">3a1241160b100300d97d8bf637673a33</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0b04c201db473300143c9fd2ca9619fe</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 06:06:39</sys_created_on>
+        <sys_id>f8144601db473300143c9fd2ca96193a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-24 06:28:26</sys_updated_on>
+        <value>160040377@kluniversity.in</value>
+        <variable display_value="">ce6281160b100300d97d8bf637673ac9</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Registration" max_length="40" name="x_386573_unicorns_registration" sizeclass="9" type="collection">
+        <element label="PHONE NUMBER" mandatory="true" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element hint="Click on check box below ,to confirm your details provided." label="ENSURE THE DETAILS PROVIDED BY YOU ARE TRUE AND CORRECT" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element hint="NIkitha Gandhi,dhanunjay are going to bang the proshow night....." label="ProShow" max_length="40" name="u_boolean_13" type="boolean"/>
+        <element hint="•&#9;Each team can have maximum of 4 members and minimum of 2 members.&#13;&#10;•&#9;A Team member can participate in only one project presentation.&#13;&#10;•&#9;Members should have a valid student ID card of their college/university.&#13;&#10;•&#9;Have to bring their own Laptops  and other equipments related to their projects.(Power connections will be provided).&#13;&#10;•&#9;The Poster should contain a simple description about their project." label="Project Expo" max_length="40" name="u_boolean_2" type="boolean"/>
+        <element hint="Poster&amp;Paper Presentation on the theme " label="Paper and Poster Presentation" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element hint="Different Literary events will be conducted and you can take part in any three events of your interest" label="Literary Events" max_length="40" name="u_boolean_4" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="none" hint="Technical Workshop related to all streams of Engineering" label="Technical Workshop" max_length="40" name="u_choice_10" type="string">
+            <choice>
+                <element inactive_on_update="false" label="None" sequence="0" value="none"/>
+                <element inactive_on_update="false" label="Industry 4.0" sequence="1" value="industry 4.0"/>
+                <element inactive_on_update="false" label="Agumented Reality" sequence="2" value="agumented reality"/>
+                <element inactive_on_update="false" label="Block Chain" sequence="3" value="block chain"/>
+                <element inactive_on_update="false" label="Sixth Sense Robotics" sequence="4" value="sixth sense robotics"/>
+                <element inactive_on_update="false" label="Foundation Analysis" sequence="5" value="foundation analysis"/>
+                <element inactive_on_update="false" label="Automatic Electronics" sequence="6" value="automatic electronics"/>
+                <element inactive_on_update="false" label="Amazon Webservices" sequence="7" value="amazon webservices"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Many Exciting Games ,You Can Participate and Have  Fun." label="Gaming" max_length="40" name="u_choice_11" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pubg" sequence="0" value="pubg"/>
+                <element inactive_on_update="false" label="Blur" sequence="1" value="blur"/>
+                <element inactive_on_update="false" label="Jenga" sequence="2" value="jenga"/>
+                <element inactive_on_update="false" label="Hot wheels" sequence="3" value="hot wheels"/>
+                <element inactive_on_update="false" label="Steady Hands" sequence="4" value="steady hands"/>
+                <element inactive_on_update="false" label="Angry Birds" sequence="5" value="angry birds"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="There are many special events on your intrested domains." label="Special Events" max_length="40" name="u_choice_12" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Blind Fold" sequence="0" value="blind fold"/>
+                <element inactive_on_update="false" label="Mock CID" sequence="1" value="mock cid"/>
+                <element inactive_on_update="false" label="Minute to Win it" sequence="2" value="minute to win it"/>
+                <element inactive_on_update="false" label="Mega BubbleChallenge" sequence="3" value="mega bubblechallenge"/>
+                <element inactive_on_update="false" label="Whats In the BOX" sequence="4" value="whats in the box"/>
+                <element inactive_on_update="false" label="Twister" sequence="5" value="twister"/>
+                <element inactive_on_update="false" label="Treasure Hunt" sequence="6" value="treasure hunt"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" hint="Cultural Events - A golden opportunity to show case your talent." label="Cultural Events" max_length="40" name="u_choice_14" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Dancing" sequence="0" value="dancing"/>
+                <element inactive_on_update="false" label="Singing" sequence="1" value="singing"/>
+                <element inactive_on_update="false" label="Drama" sequence="2" value="drama"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="none" hint="It is a 2 days session delivered by official" label="Workshop" max_length="40" name="u_choice_9" type="string">
+            <choice>
+                <element inactive_on_update="false" label="None" sequence="0" value="none"/>
+                <element inactive_on_update="false" label="IOT" sequence="1" value="iot"/>
+                <element inactive_on_update="false" label="Entrepreneurship" sequence="2" value="entrepreneurship"/>
+                <element inactive_on_update="false" label="Digital Marketing" sequence="3" value="digital marketing"/>
+                <element inactive_on_update="false" label="Artificial Intelligence" sequence="4" value="artificial intelligence"/>
+                <element inactive_on_update="false" label="Social Media&amp;Anlitics" sequence="5" value="social media&amp;anlitics"/>
+            </choice>
+        </element>
+        <element hint="Total amount ,including taxes" label="Amount Payable" max_length="40" name="u_integer_15" read_only="true" type="integer"/>
+        <element label="USER" max_length="32" name="u_reference_5" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="NAME" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="COLLEGE NAME" mandatory="true" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="EMAIL" mandatory="true" max_length="40" name="u_string_4" type="string"/>
+    </element>
+</database>
